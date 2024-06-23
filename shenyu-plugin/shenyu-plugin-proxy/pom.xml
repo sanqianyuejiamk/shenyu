@@ -32,7 +32,7 @@
         <module>shenyu-plugin-rpc</module>
         <module>shenyu-plugin-springcloud</module>
         <module>shenyu-plugin-tcp</module>
-        <module>shenyu-plugin-websocket</module>
+        <!--<module>shenyu-plugin-websocket</module>-->
     </modules>
 
     <dependencies>
